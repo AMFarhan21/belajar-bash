@@ -11,7 +11,7 @@ for file in $(find "$SOURCE_DIR" -type f -size +5M); do
 	echo "file $filename sudah dikompres dan dipindahkan"
 done
 
-echo "done"
+echo "done login"
 
 
 
